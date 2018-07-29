@@ -1,0 +1,6 @@
+{
+  "name": "about-ui",
+  "short_name": "about-ui",
+  "start_url": "/",
+  "display": "standalone"
+}
