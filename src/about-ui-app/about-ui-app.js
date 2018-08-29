@@ -83,7 +83,7 @@ class AboutUiApp extends PolymerElement {
           <h1>About Us</h1>
           <p>When you are interested in a game, what do you do? Do you like to track your progression? Are you interested in watching others play? 
           Do you enjoy a good conversation?</p>
-          <p>Here at <a href="https://statsplash.com">StatSplash</a>, we are the same way! With plenty of experience playing games, a bit of technical skill
+          <p>Here at <a href="https://www.statsplash.com">StatSplash</a>, we are the same way! With plenty of experience playing games, a bit of technical skill
           and a random whim inspiring this site, here we are now.</p>
           <p>Please take a look around and enjoy the various content you find on the site. Find something that is missing or that you would like to see? A game not covered by
           the site that should be? Please submit the idea to us using on the tool on this page. Have a question, want to communicate with the site creator, provide feedback 
